@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-### PhD Candidate
-### Department of Mathematics
-### College of Science and Engineering, University of Toulouse
+<b>Ph.D. Candidate</b> <br>
+<b>Department of Mathematics</b> <br>
+<b>College of Science and Engineering, University of Toulouse</b> <br>
 
 I am pursuing a Ph.D. in applied mathematics at the [University of Toulouse](https://en.univ-toulouse.fr/). My work as a junior researcher at the [Toulouse Mathematics Institute](https://math.univ-toulouse.fr/en/) involves developing new multiobjective optimization techniques and applying them to the study and solution of problems of sequential decision making under uncertainty. I have been teaching mathematics to undergraduates at the College of Science and Engineering since 2022.
 
