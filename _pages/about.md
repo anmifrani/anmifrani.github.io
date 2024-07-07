@@ -11,6 +11,7 @@ I'm pursuing a Ph.D. in applied mathematics at the [University of Toulouse](http
 
 I received an M.Sc.Eng. in industrial and systems engineering from [INP](https://www.inp-toulouse.fr/en/index.html) in 2022. I've resided in France since 2019.
 
+Feel free to write to me at <a href="mailto:anas.mifrani@math.univ-toulouse.fr">anas [dot] mifrani [at] math [dot] univ-toulouse [dot] fr</a>.
 
 
 
