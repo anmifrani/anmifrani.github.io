@@ -1,11 +1,16 @@
 ---
 permalink: /
-title: "Anas Mifrani"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Anas Mifrani
+### PhD Candidate
+### Department of Mathematics
+### College of Science and Engineering, University of Toulouse
 
 I am pursuing a Ph.D. in applied mathematics at the [University of Toulouse](https://en.univ-toulouse.fr/). My work as a junior researcher at the [Toulouse Mathematics Institute](https://math.univ-toulouse.fr/en/) involves developing new multiobjective optimization techniques and applying them to the study and solution of problems of sequential decision making under uncertainty. I have been teaching mathematics to undergraduates at the College of Science and Engineering since 2022.
 
