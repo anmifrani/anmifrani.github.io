@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Welcome!
-<b>Anas Mifrani</b> <br>
+### Anas Mifrani
 <b>Ph.D. Candidate</b> <br>
 <b>Department of Mathematics</b> <br>
 <b>College of Science and Engineering, University of Toulouse</b> <br>
