@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anas Mifrani || University of Toulouse"
+title                    : "Anas Mifrani"
 title_separator          : "-"
 name                     : &name "Anas Mifrani"
 description              : &description "personal description"
