@@ -28,7 +28,7 @@ author:
   location         : 118 Route de Narbonne <br> Building 1R1, Room 105 <br> 31400 Toulouse, France 
   employer         : #"University of Toulouse"
   uri              : # URL
-  email            : "anas.mifrani@math.univ-toulouse.fr" 
+  email            : #"anas.mifrani@math.univ-toulouse.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
