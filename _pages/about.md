@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Anas Mifrani"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# Anas Mifrani
 <b>Ph.D. Candidate</b> <br>
 <b>Department of Mathematics</b> <br>
 <b>College of Science and Engineering, University of Toulouse</b> <br>
