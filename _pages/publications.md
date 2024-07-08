@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Papers - Anas Mifrani"
 permalink: /papers/
 author_profile: true
 ---
