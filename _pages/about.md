@@ -18,7 +18,7 @@ Feel free to write to me at <a href="mailto:anas.mifrani@math.univ-toulouse.fr">
 
 Institut de mathématiques de Toulouse <br>
 118 Route de Narbonne, 1R1-105 <br>
-Toulouse, 31400, France
+31400 Toulouse, France
 
 
 
