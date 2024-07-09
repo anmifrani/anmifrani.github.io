@@ -22,9 +22,9 @@ repository               : "anmifrani/anmifrani.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #"Anas Mifrani"
+  name             : "Anas Mifrani"
   pronouns         : # example: "she/her"  
-  bio              : #"Ph.D. Candidate"
+  bio              : "Ph.D. Candidate at the University of Toulouse, Department of Mathematics"
   location         : <font size="4">118 Route de Narbonne <br> Building 1R1, Room 105 <br> 31400 Toulouse, France</font>
   employer         : #"University of Toulouse"
   uri              : # URL
