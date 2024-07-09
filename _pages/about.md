@@ -12,7 +12,7 @@ Welcome! I'm pursuing a Ph.D. in applied mathematics at the [University of Toulo
 
 I attended [INP](https://www.inp-toulouse.fr/en/index.html) from 2019 to 2022, earning an M.Sc.Eng. in industrial and systems engineering. Born and raised in Morocco, I've resided in France for almost five years now.
 
-Feel free to write to me at <a href="mailto:anas.mifrani@math.univ-toulouse.fr">anas [dot] mifrani [at] math [dot] univ-toulouse [dot] fr</a>. You may also meet me in person at the address to your left.
+Feel free to write to me at <a href="mailto:anas.mifrani@math.univ-toulouse.fr">anas [dot] mifrani [at] math [dot] univ-toulouse [dot] fr</a>.
 
 # Mailing Address
 
