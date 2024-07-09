@@ -14,7 +14,11 @@ I attended [INP](https://www.inp-toulouse.fr/en/index.html) from 2019 to 2022, e
 
 Feel free to write to me at <a href="mailto:anas.mifrani@math.univ-toulouse.fr">anas [dot] mifrani [at] math [dot] univ-toulouse [dot] fr</a>. You may also meet me in person at the address to your left.
 
+# Mailing Address
 
+Institut de mathématiques de Toulouse
+118 Route de Narbonne, 1R1-105
+Toulouse, 31400, France
 
 
 
