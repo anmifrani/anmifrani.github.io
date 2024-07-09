@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#00008B, $gray, 25%);
+      color: #00008B;
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -97,7 +97,7 @@
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: #00008B;
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,7 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
+    color: #00008B;
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -196,8 +196,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: #d64161;
-    color: #fff;
+    background-color: #00008B;
+    color: #00008B;
     cursor: pointer;
     z-index: 100;
   }
