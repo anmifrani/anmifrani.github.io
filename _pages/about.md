@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" src="https://www.univ-toulouse.fr/sites/default/files/Universite-de-Toulouse_0.jpg">
+<img align="right" height="184px" width="357px" src="https://www.univ-toulouse.fr/sites/default/files/Universite-de-Toulouse_0.jpg">
 
 Welcome! I'm pursuing a Ph.D. in applied mathematics at the [University of Toulouse](https://en.univ-toulouse.fr/). My work as a junior researcher at the [Toulouse Mathematics Institute](https://math.univ-toulouse.fr/en/) involves developing multiobjective optimization techniques for the analysis and solution of problems of sequential decision making under uncertainty. I've been teaching undergraduate mathematics at the College of Science and Engineering since 2022.
 
