@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="right" width="100" height="100" src="https://www.univ-toulouse.fr/sites/default/files/Universite-de-Toulouse_0.jpg">
 
 Welcome! I'm pursuing a Ph.D. in applied mathematics at the [University of Toulouse](https://en.univ-toulouse.fr/). My work as a junior researcher at the [Toulouse Mathematics Institute](https://math.univ-toulouse.fr/en/) involves developing multiobjective optimization techniques for the analysis and solution of problems of sequential decision making under uncertainty. I've been teaching undergraduate mathematics at the College of Science and Engineering since 2022.
 
