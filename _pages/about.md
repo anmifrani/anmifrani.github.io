@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Welcome! I'm pursuing a Ph.D. in applied mathematics at the [University of Toulouse](https://en.univ-toulouse.fr/). My work as a junior researcher at the [Toulouse Mathematics Institute](https://math.univ-toulouse.fr/en/) involves developing multiobjective optimization techniques for the study and solution of problems of sequential decision making under uncertainty. I've been teaching undergraduate mathematics at the College of Science and Engineering since 2022.
+Welcome! I'm pursuing a Ph.D. in applied mathematics at the [University of Toulouse](https://en.univ-toulouse.fr/). My work as a junior researcher at the [Toulouse Mathematics Institute](https://math.univ-toulouse.fr/en/) involves developing multiobjective optimization techniques for the analysis and solution of problems of sequential decision making under uncertainty. I've been teaching undergraduate mathematics at the College of Science and Engineering since 2022.
 
 I attended [INP](https://www.inp-toulouse.fr/en/index.html) from 2019 to 2022, earning an M.Sc.Eng. in industrial and systems engineering. Born and raised in Morocco, I've resided in France for almost five years now.
 
