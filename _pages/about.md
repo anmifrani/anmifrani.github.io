@@ -22,8 +22,5 @@ Institut de mathématiques de Toulouse <br>
 118 Route de Narbonne, 1R1-105 <br>
 31400 Toulouse, France
 
-<hr/>
-<div id="visitor_map">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2iCYpNE_RMCmxm2wGsvaXmcpCvZlIefPPcJZBnSnixI&cl=ffffff&w=a"></script>
-</div>
+<a href="https://clustrmaps.com/site/1c0ix" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=2iCYpNE_RMCmxm2wGsvaXmcpCvZlIefPPcJZBnSnixI&cl=ffffff"></a>
 
