@@ -8,7 +8,7 @@ redirect_from:
 output:
   html_document:
     includes:
-      in_header: UT_logo.html
+      in_header: /UT_logo.html
 ---
 
 
