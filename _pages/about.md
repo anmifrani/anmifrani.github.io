@@ -5,10 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-output:
-  html_document:
-    includes:
-      in_header: UT_logo.html
 ---
 
 
@@ -26,5 +22,5 @@ Institut de mathématiques de Toulouse <br>
 
 <hr/>
 
-
+<img src="https://www.univ-toulouse.fr/sites/default/files/Universite-de-Toulouse_0.jpg">
 
