@@ -8,7 +8,7 @@ redirect_from:
 output:
   html_document:
     includes:
-      in_header: /UT_logo.html
+      in_header: UT_logo.html
 ---
 
 
@@ -24,7 +24,7 @@ Institut de mathématiques de Toulouse <br>
 118 Route de Narbonne, 1R1-105 <br>
 31400 Toulouse, France
 
-
+<hr/>
 
 
 
