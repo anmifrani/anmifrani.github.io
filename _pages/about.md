@@ -24,5 +24,6 @@ Institut de mathématiques de Toulouse <br>
 
 <hr/>
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2iCYpNE_RMCmxm2wGsvaXmcpCvZlIefPPcJZBnSnixI&cl=ffffff&w=a"></script>
 
 
