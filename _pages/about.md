@@ -6,13 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-  #UT_logo {
-    object-position: 1330px 262px;
-    width: 157px;
-    height: 283px;
-  }
-</style>
 
 <img id="UT_logo" src="https://www.univ-toulouse.fr/sites/default/files/Universite-de-Toulouse_0.jpg">
 
