@@ -22,5 +22,5 @@ Institut de mathématiques de Toulouse <br>
 
 <hr/>
 
-<img width = 250px height = 81px src="https://www.univ-toulouse.fr/sites/default/files/Universite-de-Toulouse_0.jpg"><img src="https://www.math.univ-toulouse.fr/imt_logo.jpg">
+<img width = 250px height = 71px src="https://www.univ-toulouse.fr/sites/default/files/Universite-de-Toulouse_0.jpg"><img src="https://www.math.univ-toulouse.fr/imt_logo.jpg">
 
