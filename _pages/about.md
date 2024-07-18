@@ -23,6 +23,3 @@ Institut de mathématiques de Toulouse <br>
 31400 Toulouse, France
 
 <hr>
-
-<a href="https://clustrmaps.com/site/1c0ix" title="Visit tracker"><img align=center height= 140px width = 300px src="//www.clustrmaps.com/map_v2.png?d=2iCYpNE_RMCmxm2wGsvaXmcpCvZlIefPPcJZBnSnixI&cl=ffffff"></a>
-
