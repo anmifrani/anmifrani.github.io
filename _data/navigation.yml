@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
    # url: /year-archive/
     
-  #- title: "CV"
-   # url: /files/anas_mifrani_updated_cv.pdf
+  - title: "CV"
+    url: /files/anas_mifrani_cv_jul19.pdf
     
   #- title: "Guide"
    # url: /markdown/
