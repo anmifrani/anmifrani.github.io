@@ -9,4 +9,4 @@ author_profile: true
 
 * <b>Logic & Set Theory</b>: During the second half of 2022/2023, I gave Bachelor-level tutorials on formal logic and set theory to mathematics, physics and computer science majors. The material for these sessions was based on lectures prepared by Professor [Dominikus Noll](https://www.math.univ-toulouse.fr/~noll/).
 
-* <b>Calculus I</b>: I was appointed a teaching assistant for an introductory course on calculus during the first half of 2022/2023. My students comprised mathematics and computer science majors.    
+* <b>Calculus I</b>: I was appointed a teaching assistant for an introductory calculus course during the first half of 2022/2023. My students comprised mathematics and computer science majors.    
